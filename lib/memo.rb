@@ -3,4 +3,3 @@ class Memo
     puts 'Hallo'
   end
 end
-
