@@ -1,3 +1,2 @@
 require 'rspec'
-require_relative '../memo'
-
+require_relative '../lib/memo'
