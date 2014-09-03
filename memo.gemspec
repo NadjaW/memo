@@ -17,5 +17,4 @@ Gem::Specification.new do |s|
   s.files += Dir.glob('lib/**/*')
   s.files += Dir.glob('bin/**/*')
   s.executables = %w(memo)
-
 end
