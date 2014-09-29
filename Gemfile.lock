@@ -7,6 +7,7 @@ GEM
   remote: http://gems.rubyforge.org/
   specs:
     diff-lcs (1.2.5)
+    fakefs (0.5.3)
     rspec (3.0.0)
       rspec-core (~> 3.0.0)
       rspec-expectations (~> 3.0.0)
@@ -24,5 +25,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fakefs
   my_memo!
   rspec
