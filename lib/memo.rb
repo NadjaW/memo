@@ -21,4 +21,3 @@ class Memo
   end
 
 end
-
